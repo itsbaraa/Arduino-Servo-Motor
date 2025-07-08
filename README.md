@@ -1,4 +1,4 @@
-## Arduino-Servo-Motor
+## Arduino with servo motors
 An Arduino project to power and control 4 servo motors at the same time.
 
 ### Components
