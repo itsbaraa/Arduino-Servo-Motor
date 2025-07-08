@@ -18,7 +18,7 @@ An Arduino project to power and control 4 servo motors at the same time.
 | Pin 11          | Servo 3             | Control pin for Servo 3 |
 | Pin 10          | Servo 4             | Control pin for Servo 4 |
 | —               | Servo VCC (External)| External power source   |
-| GND             | Servo GND           | Shared ground Arduino + External|
+| GND             | Servo GND           | Ground connection       |
 
 
 ## Circuit Diagram
