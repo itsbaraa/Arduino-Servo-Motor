@@ -1,4 +1,9 @@
-# Arduino-Servo-Motor
+## Arduino-Servo-Motor
+
+
+## Circuit Diagram
+<img src=https://github.com/user-attachments/assets/e6c25362-e9ad-47a9-9065-752d801fa990 alt="diagram" width="650">
+
 
 ## Showcase
 
